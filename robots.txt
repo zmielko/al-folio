@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zmielko.github.io/zmielko//sitemap.xml
+Sitemap: https://zmielko.github.io/sitemap.xml
